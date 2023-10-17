@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>취업 정보 계정 만들기</title>
+
+
 </head>
+
+
 <body>
 <h1>취업 정보 계정 만들기</h1>
 
-<p> * 필수 입력 항목</p>
+<div> * 필수 입력 항목</div>
 
 <p>기본 정보</p>
 
@@ -65,22 +70,27 @@
     <textarea id="task" name="task" cols="80" rows="10">이전 업체에서 담당한 업무를 기술하시오.
     </textarea> <br>
 
-    <label>근무년수
-    <input type="number" min="0" max="10" step="0.5">년</label>
+    <label for="year">근무년수 </label>
+    <input type="number" id="year" min="0" max="10" step="0.5">년
 
 
     <p>자기소개서</p>
 
-    <p>첨부 파일 <input type="file" value="파일 선택"></p>
+    <span>
+        <label for="file">첨부 파일</label>
+        <input type="file" id="file" value="파일 선택">
+    </span>
 
-    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <button type="submit"> 제출 </button>
         <button type="reset"> 재작성 </button>
-    </p>
+    </div>
 
 
 
 </form>
 </body>
 </html>
+
