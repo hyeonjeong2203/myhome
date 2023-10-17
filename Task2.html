@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>취업 정보 계정 만들기</title>
+
+    <style>
+
+        #essential{
+            color: red;
+            font-size: 10px;}
+
+        p { font-weight: bold;
+            background-color: lightblue;
+            width: 800px;
+            padding-left: 10px; }
+
+        .s {
+            display: inline-block;
+            width: 130px;
+            text-align: right;
+            padding-right: 8px;
+            margin-left: 8px;
+
+        }
+
+
+
+
+
+    </style>
+
+
+</head>
+
+
+<body>
+<h2>취업 정보 계정 만들기</h2>
+
+<div id="essential"> * 필수 입력 항목</div>
+
+<p>기본 정보</p>
+
+<form>
+    <div>
+        <span class="s">
+            <label for="name">이름*</label>
+        </span>
+        <input type="text" id="name" name="name" size="8">
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="email">이메일*</label>
+        </span>
+        <input type="email" id="email" name="email" size="15" placeholder="id@domain_name"> <br>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="pwd">암호*</label>
+        </span>
+        <input type="password" id="pwd" name="pwd" size="12"> <br>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="pwd ver">암호 확인*</label>
+        </span>
+        <input type="password" id="pwd ver" name="pwd" size="12">
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="phone">모바일 폰*</label>
+        </span>
+        <input type="tel" id="phone" name="phone" size="13" placeholder="010-0000-0000">
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="url">개인 홈페이지</label>
+        </span>
+        <input type="url" id="url" name="url" size="30" placeholder="http://">
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="add">주소*</label>
+        </span>
+        <input type="text" id="add" name="add" size="30">
+    </div>
+
+
+
+
+
+    <p>학력</p>
+
+    <div>
+        <span class="s">
+            <label for="school">학교 명*</label>
+        </span>
+        <input type="text" id="school" name="school" size="12">
+
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="major">전 공*</label>
+        </span>
+        <input type="text" id="major" name="major" size="12">
+    </div>
+
+
+    <div>
+        <span class="s">
+            <label for="whether">졸업 여부*</label>
+        </span>
+        <select name="graduation" id="whether">
+            <option value="1">---선택---</option>
+            <option value="2">졸업예정</option>
+            <option value="3">졸업</option>
+        </select>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="grade">졸업(예정)일 </label>
+        </span>
+        <input type="date" id="grade">
+    </div>
+
+
+
+
+    <p>업무 경력</p>
+
+    <div>
+        <span class="s">
+            <label for="company">근무업체명</label>
+        </span>
+        <input type="text" id="company" name="company" size="20"> <br>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="position">직위</label>
+        </span>
+        <input type="text" id="position" name="position" size="10"> <br>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="task">담당 업무</label>
+        </span>
+        <textarea id="task" name="task" cols="80" rows="10">이전 업체에서 담당한 업무를 기술하시오.
+        </textarea>
+    </div>
+
+    <div>
+        <span class="s">
+            <label for="year">근무년수 </label>
+        </span>
+        <input type="number" id="year" min="0" max="10" step="0.5">년
+    </div>
+
+
+
+    <p>자기소개서</p>
+
+    <div>
+        <span class="s">
+            <label for="file">첨부 파일</label>
+        </span>
+        <input type="file" id="file" value="파일 선택">
+    </div>
+
+
+    <div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="button">
+            <input type="submit" value="제출">
+            <input type="reset" value="재작성">
+        </span>
+    </div>
+
+
+
+</form>
+</body>
+</html>
+
