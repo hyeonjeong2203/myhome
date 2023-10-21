@@ -7,16 +7,16 @@
 
     <style>
 
-        #essential{
+        #essential{                         /* 1번 */
             color: red;
             font-size: 10px;}
 
-        p { font-weight: bold;
+        p { font-weight: bold;              /* 2번 */
             background-color: lightblue;
             width: 800px;
             padding-left: 10px; }
 
-        .s {
+        .s {                                /* 3번 */
             display: inline-block;
             width: 130px;
             text-align: right;
@@ -25,6 +25,9 @@
 
         }
 
+        #button {                           /* 4번 */
+            margin-left:200px;
+        }
 
 
 
@@ -178,13 +181,9 @@
     </div>
 
 
-    <div>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span class="button">
-            <input type="submit" value="제출">
-            <input type="reset" value="재작성">
-        </span>
+    <div id="button">
+        <input type="submit" value="제출">
+        <input type="reset" value="재작성">
     </div>
 
 
