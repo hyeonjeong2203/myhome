@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>dom_object</title>
+    <meta name="viewpoint" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+
+      function transform() {
+          var num2 = document.getElementById("digit").value ;
+          var num16 = document.getElementById("hexanum") ;
+
+          if (isFinite(num2)){
+              num16.value = parseInt(num2, 2).toString(16).toUpperCase()
+          }}
+
+
+
+      function pascals(){
+          var height = document.getElementById("size").value ;
+          height = parseInt(height) ;
+          var result = '' ;
+
+          var new_row = function(prev_row) {
+          var row = [];
+
+          row.push(1);
+
+          for (var i = 1; i <= prev_row; i++) {
+              for (var j = row.length - 1; j > 0; j--) {
+                  row[j] = row[j - 1] + row[j];
+              }
+              row.push(1);
+          }
+
+          return row;
+          };
+
+          document.getElementById("draw_area").innerHTML = new_row(height) ;
+
+          for(var l=0; l<height; l++) {
+              var n = new_row(l);
+              for (var a=0; a<=l; a++)
+                  result += n[a] + ' ' ;
+                  result += "<br>" ;
+              }
+          document.getElementById("draw_area").innerHTML = result ;
+      }
+
+    </script>
+</head>
+
+
+<body>
+<div class="container-sm mt-5">
+    <div class="h3">2진수 변환기</div>
+    <div class="mb-3">
+        <label class="form-label text-primary"> 2진수:
+            <input type="text" id="digit" size="20">
+        </label>
+        <button type="button" class="btn btn-dark" onclick="transform()"> ===&gt; </button>
+        <label class="form-label text-primary"> 16진수:
+            <input type="text" id="hexanum" size="20" readonly="" value="">
+        </label>
+    </div>
+
+    <hr>
+
+    <div class="h3">파스칼 삼각형</div>
+    <div class="mb-3">
+        <label class="form-label text-primary">삼각형 높이
+            <input type="number" id="size" min="1" max="20" step="1" value="1">
+            <button type="button" class="btn btn-success" onclick="pascals()">그리기</button>
+        </label>
+    </div>
+
+    <!--그리기 클릭 시, 하단부에 파스칼 삼각형 출력-->
+    <div class="text-bg-secondary" id="draw_area"></div>
+
+</div>
+</body>
+</html>
