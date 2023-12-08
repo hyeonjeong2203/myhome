@@ -18,36 +18,36 @@
 
 <form>
     <label for="name">이름*</label>
-    <input type="text" id="name" name="name" size="8"> <br>
+    <input id="name" name="name" size="8" type="text"> <br>
 
     <label for="email">이메일*</label>
-    <input type="email" id="email" name="email" size="15" placeholder="id@domain_name"> <br>
+    <input id="email" name="email" placeholder="id@domain_name" size="15" type="email"> <br>
 
     <label for="pwd">암호*</label>
-    <input type="password" id="pwd" name="pwd" size="12"> <br>
+    <input id="pwd" name="pwd" size="12" type="password"> <br>
 
     <label for="pwd ver">암호 확인*</label>
-    <input type="password" id="pwd ver" name="pwd" size="12"> <br>
+    <input id="pwd ver" name="pwd" size="12" type="password"> <br>
 
     <label for="phone">모바일 폰*</label>
-    <input type="tel" id="phone" name="phone" size="13" placeholder="010-0000-0000"> <br>
+    <input id="phone" name="phone" placeholder="010-0000-0000" size="13" type="tel"> <br>
 
     <label for="url">개인 홈페이지</label>
-    <input type="url" id="url" name="url" size="30" placeholder="http://"> <br>
+    <input id="url" name="url" placeholder="http://" size="30" type="url"> <br>
 
     <label for="add">주소*</label>
-    <input type="text" id="add" name="add" size="30"> <br>
+    <input id="add" name="add" size="30" type="text"> <br>
 
     <p>학력</p>
 
     <label for="school">학교 명*</label>
-    <input type="text" id="school" name="school" size="12"> <br>
+    <input id="school" name="school" size="12" type="text"> <br>
 
     <label for="major">전 공*</label>
-    <input type="text" id="major" name="major" size="12"> <br>
+    <input id="major" name="major" size="12" type="text"> <br>
 
     <label>졸업 여부*
-        <select name="graduation" id="whether">
+        <select id="whether" name="graduation">
             <option value="1">---선택---</option>
             <option value="2">졸업예정</option>
             <option value="3">졸업</option>
@@ -61,24 +61,24 @@
     <p>업무 경력</p>
 
     <label for="company">근무업체명</label>
-    <input type="text" id="company" name="company" size="20"> <br>
+    <input id="company" name="company" size="20" type="text"> <br>
 
     <label for="position">직위</label>
-    <input type="text" id="position" name="position" size="10"> <br>
+    <input id="position" name="position" size="10" type="text"> <br>
 
     <label for="task">담당 업무</label>
-    <textarea id="task" name="task" cols="80" rows="10">이전 업체에서 담당한 업무를 기술하시오.
+    <textarea cols="80" id="task" name="task" rows="10">이전 업체에서 담당한 업무를 기술하시오.
     </textarea> <br>
 
     <label for="year">근무년수 </label>
-    <input type="number" id="year" min="0" max="10" step="0.5">년
+    <input id="year" max="10" min="0" step="0.5" type="number">년
 
 
     <p>자기소개서</p>
 
     <span>
         <label for="file">첨부 파일</label>
-        <input type="file" id="file" value="파일 선택">
+        <input id="file" type="file" value="파일 선택">
     </span>
 
     <div>
