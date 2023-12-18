@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1ffa1b-774d-4192-bbf0-393f54f809ab" name="변경" comment="과제4 작성" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/myhome" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="myhome" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="myhome" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hyeonjeong2203&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9ed56dd5-7907-4c71-ac72-a228315e6fe6" />
+        <option name="url" value="https://github.com/hyeonjeong2203/web2023" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WBzWB0haSqLbjJ3YAPg8Z6KcFZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hyeonjeong/OneDrive/바탕 화면/meyawo-1.0.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hyeonjeong\PycharmProjects\myweb\reports" />
+      <recent name="C:\Users\hyeonjeong\PycharmProjects\myweb\" />
+      <recent name="C:\Users\hyeonjeong\PycharmProjects\myweb\landing_page" />
+      <recent name="C:\Users\hyeonjeong\PycharmProjects\myweb\forms" />
+      <recent name="C:\Users\hyeonjeong\PycharmProjects\myweb\d" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="myweb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="0b1ffa1b-774d-4192-bbf0-393f54f809ab" name="변경" comment="" />
+      <created>1696220791036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696220791036</updated>
+      <workItem from="1696220793435" duration="3417000" />
+      <workItem from="1696224340907" duration="6000" />
+      <workItem from="1696355672760" duration="6259000" />
+      <workItem from="1696363692382" duration="133000" />
+      <workItem from="1696363920566" duration="40000" />
+      <workItem from="1697194564902" duration="244000" />
+      <workItem from="1697194863415" duration="17000" />
+      <workItem from="1697296420486" duration="11000" />
+      <workItem from="1697506723978" duration="4488000" />
+      <workItem from="1697537910021" duration="361000" />
+      <workItem from="1697539072189" duration="9098000" />
+      <workItem from="1697598420640" duration="42000" />
+      <workItem from="1697602383098" duration="1161000" />
+      <workItem from="1697776696295" duration="49000" />
+      <workItem from="1697875083178" duration="153000" />
+      <workItem from="1697878713230" duration="1673000" />
+      <workItem from="1697880756428" duration="11000" />
+      <workItem from="1697887233053" duration="8000" />
+      <workItem from="1699242545320" duration="18000" />
+      <workItem from="1699242605242" duration="29000" />
+      <workItem from="1699242754176" duration="55000" />
+      <workItem from="1699242944370" duration="268000" />
+      <workItem from="1699243224059" duration="64000" />
+      <workItem from="1699243298502" duration="1202000" />
+      <workItem from="1699958245459" duration="33000" />
+      <workItem from="1699958808778" duration="24000" />
+      <workItem from="1700302565982" duration="442000" />
+      <workItem from="1700303023632" duration="776000" />
+      <workItem from="1700489224963" duration="4201000" />
+      <workItem from="1700493460947" duration="2290000" />
+      <workItem from="1700979923215" duration="20000" />
+      <workItem from="1701080060167" duration="2915000" />
+      <workItem from="1701083270259" duration="476000" />
+      <workItem from="1701083762234" duration="86000" />
+      <workItem from="1701084048125" duration="4186000" />
+      <workItem from="1701106200863" duration="3898000" />
+      <workItem from="1701966409005" duration="2025000" />
+      <workItem from="1701968895325" duration="1603000" />
+      <workItem from="1702016818897" duration="1740000" />
+      <workItem from="1702018734892" duration="467000" />
+      <workItem from="1702045782095" duration="392000" />
+      <workItem from="1702647607255" duration="92000" />
+      <workItem from="1702895687869" duration="164000" />
+      <workItem from="1702896852765" duration="10000" />
+      <workItem from="1702903708961" duration="1481000" />
+    </task>
+    <task id="LOCAL-00001" summary="첫번째 commit">
+      <option name="closed" value="true" />
+      <created>1696222617220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696222617220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="index 페이지 생성">
+      <option name="closed" value="true" />
+      <created>1696223278437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696223278437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="login 페이지 생성">
+      <option name="closed" value="true" />
+      <created>1696359130705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696359130705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="register 페이지 생성">
+      <option name="closed" value="true" />
+      <created>1696359157452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696359157452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="끝">
+      <option name="closed" value="true" />
+      <created>1696362110593</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696362110593</updated>
+    </task>
+    <task id="LOCAL-00006" summary="끝(버튼 수정)">
+      <option name="closed" value="true" />
+      <created>1697507535951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697507535951</updated>
+    </task>
+    <task id="LOCAL-00007" summary="스타일 시트 적용">
+      <option name="closed" value="true" />
+      <created>1697568060390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568060390</updated>
+    </task>
+    <task id="LOCAL-00008" summary="스타일 시트 적용">
+      <option name="closed" value="true" />
+      <created>1697568099235</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568099235</updated>
+    </task>
+    <task id="LOCAL-00009" summary="css 적용">
+      <option name="closed" value="true" />
+      <created>1697568801443</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568801443</updated>
+    </task>
+    <task id="LOCAL-00010" summary="css 적용">
+      <option name="closed" value="true" />
+      <created>1697568859445</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697568859445</updated>
+    </task>
+    <task id="LOCAL-00011" summary="css 적용">
+      <option name="closed" value="true" />
+      <created>1697603670412</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697603670412</updated>
+    </task>
+    <task id="LOCAL-00012" summary="css 적용">
+      <option name="closed" value="true" />
+      <created>1697603768498</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697603768498</updated>
+    </task>
+    <task id="LOCAL-00013" summary="과제 2 적용">
+      <option name="closed" value="true" />
+      <created>1697880263453</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697880263453</updated>
+    </task>
+    <task id="LOCAL-00014" summary="과제 2 적용">
+      <option name="closed" value="true" />
+      <created>1700493242773</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700493242773</updated>
+    </task>
+    <task id="LOCAL-00015" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700493283591</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1700493283591</updated>
+    </task>
+    <task id="LOCAL-00016" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700493553169</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1700493553169</updated>
+    </task>
+    <task id="LOCAL-00017" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700589955618</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1700589955618</updated>
+    </task>
+    <task id="LOCAL-00018" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700590502944</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1700590502944</updated>
+    </task>
+    <task id="LOCAL-00019" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700591395230</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700591395230</updated>
+    </task>
+    <task id="LOCAL-00020" summary="과제 3 적용">
+      <option name="closed" value="true" />
+      <created>1700591476788</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700591476788</updated>
+    </task>
+    <task id="LOCAL-00021" summary="과제">
+      <option name="closed" value="true" />
+      <created>1701081541841</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701081541841</updated>
+    </task>
+    <task id="LOCAL-00022" summary="묶음">
+      <option name="closed" value="true" />
+      <created>1701081648814</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701081648814</updated>
+    </task>
+    <task id="LOCAL-00023" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701083049336</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701083049336</updated>
+    </task>
+    <task id="LOCAL-00024" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701083354154</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701083354154</updated>
+    </task>
+    <task id="LOCAL-00025" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701104426359</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701104426365</updated>
+    </task>
+    <task id="LOCAL-00026" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701104549388</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701104549388</updated>
+    </task>
+    <task id="LOCAL-00027" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701104621056</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1701104621056</updated>
+    </task>
+    <task id="LOCAL-00028" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701104731104</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1701104731104</updated>
+    </task>
+    <task id="LOCAL-00029" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701104932571</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1701104932571</updated>
+    </task>
+    <task id="LOCAL-00030" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701105162270</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701105162270</updated>
+    </task>
+    <task id="LOCAL-00031" summary="랜딩페이지">
+      <option name="closed" value="true" />
+      <created>1701108531021</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1701108531021</updated>
+    </task>
+    <task id="LOCAL-00032" summary="과제 4 작성">
+      <option name="closed" value="true" />
+      <created>1701969557115</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1701969557115</updated>
+    </task>
+    <task id="LOCAL-00033" summary="순서 재정렬">
+      <option name="closed" value="true" />
+      <created>1702017631285</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702017631285</updated>
+    </task>
+    <task id="LOCAL-00034" summary="순서재정렬">
+      <option name="closed" value="true" />
+      <created>1702017685770</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1702017685770</updated>
+    </task>
+    <task id="LOCAL-00035" summary="순서재정렬">
+      <option name="closed" value="true" />
+      <created>1702017967866</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1702017967866</updated>
+    </task>
+    <task id="LOCAL-00036" summary="과제4 작성">
+      <option name="closed" value="true" />
+      <created>1702046120625</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1702046120625</updated>
+    </task>
+    <task id="LOCAL-00037" summary="과제4 작성">
+      <option name="closed" value="true" />
+      <created>1702905527778</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1702905527778</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="첫번째 commit" />
+    <MESSAGE value="index 페이지 생성" />
+    <MESSAGE value="login 페이지 생성" />
+    <MESSAGE value="register 페이지 생성" />
+    <MESSAGE value="끝" />
+    <MESSAGE value="끝(버튼 수정)" />
+    <MESSAGE value="스타일 시트 적용" />
+    <MESSAGE value="css 적용" />
+    <MESSAGE value="과제 2 적용" />
+    <MESSAGE value="과제 3 적용" />
+    <MESSAGE value="과제" />
+    <MESSAGE value="묶음" />
+    <MESSAGE value="랜딩페이지" />
+    <MESSAGE value="과제 4 작성" />
+    <MESSAGE value="순서 재정렬" />
+    <MESSAGE value="순서재정렬" />
+    <MESSAGE value="과제4 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="과제4 작성" />
+  </component>
+</project>
